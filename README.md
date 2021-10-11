@@ -1,2 +1,2 @@
-# Uranometrical
-(todo)
+# .github
+Default community health files.
