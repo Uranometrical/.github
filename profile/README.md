@@ -1,13 +1,18 @@
 # Uranometrical
-A group of friends working to create a fun little MC modding project.
+The organization behind _Constellar_, _Aurora_, and more. We're a group of friends working to create fun little MC modding-related projects.
 
-Our main focus is _Constellar_, a Minecraft 1.8.9. PvP client targeting standalone functionality, with support for Forge through tweaking (the same way OptiFine works).
+Our main focuses are:
+ * _Constellar_, a Minecraft 1.8.9. PvP client targeting standalone and forge functionality, powered by SpongePowered Mixins.
+ * _Aurora_, an extensible launcher alternative, and will be _Constellar_'s main launcher in the future.
+ * _notes_, reverse-engineered documentation of other clients and mods, as well as articles about client and mod development.
 
 ### Constellar
-A small project aiming to develop into a respectable mod to use alongside other mods, with many features from other popular clients such as _Lunar Client_, and some more miscellaneous modules from mods such as _LabyMod_. We are not developing Constellar with the goal of replacing any existing mods, and our main goal is to expand outward into focusing on servers aside from _Hypixel_.
+A small client project aiming to develop into a respectable standalone PvP client. Functions as a standalone mod (such as Lunar Client, Badlion, etc.), as well as a Forge mod (such as LabyMod). The goal is to merge plenty of features from other clients using our own, unique implementations. We also aim to feature compatibility with the cosmetics of other clients, as well as their networking, though this is quite ambitious -- no promises!
+
+_Constellar_ focuses on more than just Hypixel, as well.
 
 ### notes
-Documentation of various other Minecraft clients, often through manual reverse-engineering. Leave a star, it takes a lot of effort to make!
+Reverse-engineered documentation on other clients and mods, hence the slow progress. Also contains information on client and mod development, aims to be informative.
 
 ### Aurora (TODO)
-Launcher (ooooooooooooooooooooo).
+An extensible C#/.NET 5.0 Minecraft launcher built on top of osu!framework, with the goal of being entirely plug-in-based and being capable of launching other PvP clients, such as Lunar and Badlion.
